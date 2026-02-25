@@ -12,6 +12,12 @@ export const replacers = [
         ignorePrefix: ["@", "#"],
         enabled: true,
     },
+     {
+        from: "מיקרוסופט",
+        to: "מיקרוסלופ",
+        ignorePrefix: ["@", "#"],
+        enabled: true,
+    },
     {
         from: "Satya Nadella",
         to: "Slopya Nuttela",
@@ -50,7 +56,7 @@ export const replacers = [
     },
     {
         from: "Game Pass",
-        to: "Gay Pass",
+        to: "N-Word Pass Pass",
         ignorePrefix: ["@", "#"],
     },
     {
@@ -60,7 +66,7 @@ export const replacers = [
     },
     {
         from: "GitHub",
-        to: "ShitHub",
+        to: "GitHub",
         ignorePrefix: ["@", "#"],
     },
     {
